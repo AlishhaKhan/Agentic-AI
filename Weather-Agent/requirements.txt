@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+langdetect
+langcodes
+streamlit-webrtc
+SpeechRecognition
+numpy
+av
+geopy
+requests
