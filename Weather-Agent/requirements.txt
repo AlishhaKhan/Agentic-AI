@@ -9,3 +9,4 @@ numpy
 av
 geopy
 requests
+matplotlib
